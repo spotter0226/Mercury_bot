@@ -38,6 +38,7 @@ def distance():
 ​
     return distance
 ​
+#Calculates the distance 
 try:  
     while True:
      distance = distance()
