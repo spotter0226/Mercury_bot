@@ -1,3 +1,5 @@
+#This code calculates the distance from ultrasonic sensors on the bot
+
 #Import GPIO libraries.
 import RPi.GPIO as GPIO
 import time
